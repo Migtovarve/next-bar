@@ -23,8 +23,7 @@
     "next-compose-plugins": "^2.2.1",
     "nprogress": "^0.2.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "webpack": "^5.75.0"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@tailwindcss/aspect-ratio": "^0.4.2",
