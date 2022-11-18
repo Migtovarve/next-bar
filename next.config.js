@@ -13,7 +13,7 @@ const moduleExports = {
     //   'Configure Source Maps':
     //     - disableServerWebpackPlugin
     //     - disableClientWebpackPlugin
-    hideSourceMaps:true,
+    hideSourceMaps:false,
     //     - widenClientFileUpload
     //   'Configure Legacy Browser Support':
     //     - transpileClientSDK
