@@ -2,7 +2,7 @@
 
 Este repositorio se realizo con una plantilla para los Landing Page de [Avila Tek](https://github.com/Avila-Tek/next-template). 
 
-En [Avila Tek](https://avilatek.dev) estamos comprometido con el Open Source, ya que nuestra compañía ha crecido alrededor de esta gran comunidad y a traves de pequeños proyectos, estamos tratado de volver lo que esta comunidad nos ha dado.
+En este proyecto me dieron un diseño realizado en figma y lo desarolle usando Next.js, Tailwind y TypeScript
 
 ## Capturas de pantalla
 
