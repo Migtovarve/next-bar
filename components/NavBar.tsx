@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import SearchForm from './SerachForm';
-import bodebar from '../public/imgs/bodebar1.svg';
+import bodegon from '../public/imgs/Bodegon.png';
 import carrito from '../public/imgs/Carro.svg';
 import exit from '../public/imgs/Vectorexit.svg';
 
@@ -9,7 +9,9 @@ function NavBar() {
   return (
     <nav className="flex justify-between items-center h-28 pl-16 pr-14 space-x-6">
       <Link href="/">
-        <Image src={bodebar} height={64} className="h-16" />
+        <button type='button'>
+          <Image src={bodegon} className="h-16" />
+        </button>
       </Link>
       <SearchForm />
       <div className="flex">

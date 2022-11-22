@@ -22,7 +22,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>BodeBar</title>
+        <title>BodeGon</title>
       </Head>
       <Component {...pageProps} />
     </>

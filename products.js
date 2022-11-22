@@ -2,6 +2,7 @@ import product1 from './public/imgs/Rectangle12.png';
 import product2 from './public/imgs/Rectangle13.png';
 import product3 from './public/imgs/Rectangle14.png';
 import product4 from './public/imgs/Rectangle15.png';
+import product5 from './public/imgs/Rectangle 7.png';
 
 const categories = ['Whisky','Ron','Vinos','Destilados','Licores','Otros','Ofertas',]
 
@@ -29,7 +30,7 @@ const product = [{
 }, {
   "id": "7044aab6-bb3f-48c0-87d7-ffaa55922e51",
   "name": "Licor 1",
-  "image": product4,
+  "image": product5,
   "price": 99.99,
   "category": "WHISKY",
   "relevance": 88
