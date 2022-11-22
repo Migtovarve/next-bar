@@ -1,4 +1,4 @@
-# BodeBar challenge
+# BodeGon challenge
 
 Este repositorio se realizo con una plantilla para los Landing Page de [Avila Tek](https://github.com/Avila-Tek/next-template). 
 
